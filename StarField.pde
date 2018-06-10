@@ -34,7 +34,7 @@ PFont pixelated;
 PFont pixelTitle;
 int score = 0;
 int hiScore = 0;
-int timeLeft = 20000;
+int timeLeft = 60000;
 int startTime = 0;
 boolean isInMenu = true;
 
